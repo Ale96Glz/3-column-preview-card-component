@@ -102,6 +102,11 @@ img {
     transform: scale(0.8)
 }
 
+button:hover{
+    background-color: transparent;
+    color: white;
+    border: solid 1px white;
+}
 
 @media only screen and (max-width: 630px) and (min-width: 516px){
     .data p{
